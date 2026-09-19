@@ -5,7 +5,7 @@
 
 ---
 
-## Verification Results
+## Verification Results:
 
 | # | Check | Result |
 |---|-------|--------|
